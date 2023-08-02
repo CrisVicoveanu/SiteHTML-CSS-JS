@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar {
+    background-color: #4285f4; 
+    padding: 10px;
+  }
+  
+  .navbar-nav {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .navbar a {
+    text-decoration: none;
+    color: #fff; 
+    font-weight: bold;
+  }
+  
+  .navbar a:hover {
+    color: #f0f0f0; 
+  }
+  
+  header {
+    background-color: none; 
+    padding: 30px;
+    text-align: center;
+    color: black;
+  }
+  
+  .about-us {
+    background-image: url(./gradinita_image1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 40px 0;
+    color: #fff;
+  }
+  
+  #despre-noi {
+    padding-top: 80px;
+  }
+  
+  section {
+    padding: 30px;
+    color: #333; 
+  }
+  
+  section h2 {
+    color: #4285f4; 
+  }
+  .contacteaza-ne {
+    padding: 10px;
+    background-color: #F0E68C;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .contacteaza-ne h2 {
+    color: #0056b3;
+    margin-bottom: 5px;
+  }
+  
+  .contacteaza-ne p {
+    color: #0056b3;
+    margin: 0;
+  }
+  .footer {
+    text-align: center;
+    color: black;
+    padding: 10px;
+    background-color: #4285f4; 
+  }

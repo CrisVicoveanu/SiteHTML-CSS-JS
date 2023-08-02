@@ -1,0 +1,110 @@
+
+header#acasa {
+    background-color:#F0E68C;
+    padding: 40px;
+  }
+  
+  header#acasa h1 {
+    font-size: 48px;
+    color: #0056b3;
+  }
+  
+  header#acasa p {
+    background-color: #F0E68C;
+    font-size: 24px;
+    color: #0056b3;
+  }
+  
+  .main {
+    background-color: #F0E68C;
+  }
+  section {
+    padding: 40px 0;
+  }
+  
+  section .container {
+    max-width: 800px;
+  }
+  
+  section h2 {
+    font-size: 32px;
+    color: #0056b3;
+    margin-bottom: 20px;
+  }
+  
+  section p {
+    font-size: 18px;
+    color: #0056b3;
+    line-height: 1.6;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  .btn-primary:focus,
+  .btn-primary.focus {
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.5);
+  }
+  
+  #contact-form {
+    max-width: 500px;
+  }
+  
+  #contact-form label {
+    font-size: 18px;
+    color: #333;
+  }
+  
+  #contact-form input.form-control,
+  #contact-form textarea.form-control {
+    font-size: 16px;
+    color: #333;
+  }
+  
+  #contact-form textarea.form-control {
+    resize: none;
+  }
+  
+  #contact-form button[type="submit"] {
+    font-size: 18px;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  #contact-form button[type="submit"]:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+.contacteaza-ne {
+  padding: 10px;
+  background-color: #F0E68C;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.contacteaza-ne h2 {
+  color: #0056b3;
+  margin-bottom: 5px;
+}
+
+.contacteaza-ne p {
+  color: #0056b3;
+  margin: 0;
+}
+.footer {
+  text-align: center;
+  color: #0056b3;
+  padding: 10px;
+  background-color: #4285f4; 
+}
